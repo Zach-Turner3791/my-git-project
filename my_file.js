@@ -9,3 +9,7 @@ const hiThere = () => {
 hiThere();
 
 console.log('stash demo');
+
+const helloThere = () => {
+  console.log('General Kenobi');
+};
