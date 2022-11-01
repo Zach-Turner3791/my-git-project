@@ -7,3 +7,5 @@ const hiThere = () => {
 };
 
 hiThere();
+
+console.log('stash demo');
