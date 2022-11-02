@@ -13,3 +13,5 @@ console.log('stash demo');
 const helloThere = () => {
   console.log('General Kenobi');
 };
+
+console.log('stash demo');
